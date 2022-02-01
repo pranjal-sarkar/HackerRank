@@ -1,2 +1,4 @@
+.gitignore
 *.exe
 dummyfile1.cpp
+tempCodeRunnerFile.cpp

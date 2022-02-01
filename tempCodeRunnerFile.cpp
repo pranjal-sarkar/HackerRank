@@ -1,2 +1,2 @@
 
-// #define ARRAY_COUNT 1e9
+    display(ranked, n);
